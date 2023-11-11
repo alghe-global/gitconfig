@@ -13,4 +13,4 @@
 	br = branch
 	st = status
 	sl = stash list
-	lg = log --pretty=format:'%Cblue%h %an (%ae) %Cred%cD %Creset%cn %Cgreen%s%Creset' --date-order --graph
+	lg = log --pretty=format:'%Cblue%h %Creset%an (%ae) %Cred%cD %Cgreen%s%Creset' --date-order --graph
