@@ -3,6 +3,8 @@
 	name = Alexandru Gheorghe
 [init]
 	defaultBranch = master
+[commit]
+	gpgsign = true
 [core]
 	editor = vim
 [alias]
