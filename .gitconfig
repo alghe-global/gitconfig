@@ -1,0 +1,14 @@
+[user]
+	email = alghe.global@gmail.com
+	name = Alexandru Gheorghe
+[init]
+	defaultBranch = master
+[core]
+	editor = vim
+[alias]
+	ci = commit
+	co = checkout
+	br = branch
+	st = status
+	sl = stash list
+	log = log --pretty=format:'%Cblue%h %an (%ae) %Cred%cD %Creset%cn %Cgreen%s%Creset' --date-order --graph
